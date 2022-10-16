@@ -1,0 +1,15 @@
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\obj\Debug\net6.0\Programowanie-Obiektowe.csproj.AssemblyReference.cache
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\obj\Debug\net6.0\Programowanie-Obiektowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\obj\Debug\net6.0\Programowanie-Obiektowe.AssemblyInfoInputs.cache
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\obj\Debug\net6.0\Programowanie-Obiektowe.AssemblyInfo.cs
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\obj\Debug\net6.0\Programowanie-Obiektowe.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\bin\Debug\net6.0\Programowanie-Obiektowe.exe
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\bin\Debug\net6.0\Programowanie-Obiektowe.deps.json
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\bin\Debug\net6.0\Programowanie-Obiektowe.runtimeconfig.json
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\bin\Debug\net6.0\Programowanie-Obiektowe.dll
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\bin\Debug\net6.0\Programowanie-Obiektowe.pdb
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\obj\Debug\net6.0\Programowanie-Obiektowe.dll
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\obj\Debug\net6.0\refint\Programowanie-Obiektowe.dll
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\obj\Debug\net6.0\Programowanie-Obiektowe.pdb
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\obj\Debug\net6.0\Programowanie-Obiektowe.genruntimeconfig.cache
+C:\Users\Jakub\Documents\GitHub\University-2021-2025\Programowanie-Obiektowe\obj\Debug\net6.0\ref\Programowanie-Obiektowe.dll
